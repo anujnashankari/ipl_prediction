@@ -113,6 +113,3 @@ pytest
 - `fastapi_backend/`: FastAPI backend implementation
 - `data_pipeline/`: Web scraping and data processing
 
-## License
-
-MIT
